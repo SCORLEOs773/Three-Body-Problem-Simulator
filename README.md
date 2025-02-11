@@ -36,10 +36,10 @@ This repository contains Python implementations of the **Three-Body Problem**, a
 
 ### Equations of Motion
 The system is governed by Newton's law of universal gravitation:
-F = $\frac{G m_1 m_2}{r^2}
+$$ F = \frac{G m_1 m_2}{r^2} $$
 
 For each body, acceleration is computed as:
-a = $\frac{F}{m}
+$$ a = \frac{F}{m} $$
 
 Where G is the gravitational constant, 𝑚 is mass, and 𝑟 is the distance between bodies.
 
